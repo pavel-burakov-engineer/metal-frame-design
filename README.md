@@ -9,4 +9,4 @@
 - AutoCAD
 
 ## Визуализация
-!(drawings/TEST3.jpg)
+!(drawings/TEST1.jpg)
